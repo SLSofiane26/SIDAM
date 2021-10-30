@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "556656275748",
+    "project_id": "sidamsuncha",
+    "storage_bucket": "sidamsuncha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556656275748:android:c77657afbc22351d3883b1",
+        "android_client_info": {
+          "package_name": "com.sidam.master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556656275748-ttv3t2lhc76lmbhgfm0ri5n4fgrro1su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sidam.master",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "556656275748-m931jm891g6a21qh4aoepmoro9t6hive.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnN7CBIyCV8d1w-3-iD6AslkkK4FL725w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556656275748-m931jm891g6a21qh4aoepmoro9t6hive.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "556656275748-026ld7cmr82b6pah33m2mjognjq62vlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sidam.master"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

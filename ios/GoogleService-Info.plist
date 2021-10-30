@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CLIENT_ID</key>
+		<string>556656275748-026ld7cmr82b6pah33m2mjognjq62vlf.apps.googleusercontent.com</string>
+		<key>REVERSED_CLIENT_ID</key>
+		<string>com.googleusercontent.apps.556656275748-026ld7cmr82b6pah33m2mjognjq62vlf</string>
+		<key>ANDROID_CLIENT_ID</key>
+		<string>556656275748-d7ila7qet35dv2k57efpdak6104bjale.apps.googleusercontent.com</string>
+		<key>API_KEY</key>
+		<string>AIzaSyAEztAV2szrAzErCdwwB70tfJ3DwZli2aw</string>
+		<key>GCM_SENDER_ID</key>
+		<string>556656275748</string>
+		<key>PLIST_VERSION</key>
+		<string>1</string>
+		<key>BUNDLE_ID</key>
+		<string>com.sidam.master</string>
+		<key>PROJECT_ID</key>
+		<string>sidamsuncha</string>
+		<key>STORAGE_BUCKET</key>
+		<string>sidamsuncha.appspot.com</string>
+		<key>IS_ADS_ENABLED</key>
+		<false></false>
+		<key>IS_ANALYTICS_ENABLED</key>
+		<false></false>
+		<key>IS_APPINVITE_ENABLED</key>
+		<true></true>
+		<key>IS_GCM_ENABLED</key>
+		<true></true>
+		<key>IS_SIGNIN_ENABLED</key>
+		<true></true>
+		<key>GOOGLE_APP_ID</key>
+		<string>1:556656275748:ios:ed714990ad57b1123883b1</string>
+	</dict>
+</plist>
